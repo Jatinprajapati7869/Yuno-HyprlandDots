@@ -1,1 +1,1 @@
-# Yuno-HyprlandDots
+# Yuno-HyprlandDots Arch
