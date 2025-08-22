@@ -1,1 +1,1 @@
-# Yuno-HyprlandDots Arch
+# Yuno-HyprlandDots ArchLinux
